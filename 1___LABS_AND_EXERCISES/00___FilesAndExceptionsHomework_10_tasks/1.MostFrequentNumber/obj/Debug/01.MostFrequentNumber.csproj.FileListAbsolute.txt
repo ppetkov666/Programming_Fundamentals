@@ -1,0 +1,7 @@
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\00___FilesAndExceptionsHomework_10_tasks\homework\1.MostFrequentNumber\bin\Debug\1.MostFrequentNumber.exe.config
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\00___FilesAndExceptionsHomework_10_tasks\homework\1.MostFrequentNumber\bin\Debug\1.MostFrequentNumber.exe
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\00___FilesAndExceptionsHomework_10_tasks\homework\1.MostFrequentNumber\bin\Debug\1.MostFrequentNumber.pdb
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\00___FilesAndExceptionsHomework_10_tasks\homework\1.MostFrequentNumber\obj\Debug\01.MostFrequentNumber.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\00___FilesAndExceptionsHomework_10_tasks\homework\1.MostFrequentNumber\obj\Debug\01.MostFrequentNumber.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\00___FilesAndExceptionsHomework_10_tasks\homework\1.MostFrequentNumber\obj\Debug\1.MostFrequentNumber.exe
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\00___FilesAndExceptionsHomework_10_tasks\homework\1.MostFrequentNumber\obj\Debug\1.MostFrequentNumber.pdb
