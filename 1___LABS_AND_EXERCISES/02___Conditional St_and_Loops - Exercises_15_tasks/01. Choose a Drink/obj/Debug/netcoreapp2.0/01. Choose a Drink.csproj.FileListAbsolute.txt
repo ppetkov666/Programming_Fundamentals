@@ -1,0 +1,11 @@
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\01. Choose a Drink\bin\Debug\netcoreapp2.0\01. Choose a Drink.deps.json
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\01. Choose a Drink\bin\Debug\netcoreapp2.0\01. Choose a Drink.runtimeconfig.json
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\01. Choose a Drink\bin\Debug\netcoreapp2.0\01. Choose a Drink.runtimeconfig.dev.json
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\01. Choose a Drink\bin\Debug\netcoreapp2.0\01. Choose a Drink.dll
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\01. Choose a Drink\bin\Debug\netcoreapp2.0\01. Choose a Drink.pdb
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\01. Choose a Drink\obj\Debug\netcoreapp2.0\01. Choose a Drink.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\01. Choose a Drink\obj\Debug\netcoreapp2.0\01. Choose a Drink.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\01. Choose a Drink\obj\Debug\netcoreapp2.0\01. Choose a Drink.AssemblyInfoInputs.cache
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\01. Choose a Drink\obj\Debug\netcoreapp2.0\01. Choose a Drink.AssemblyInfo.cs
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\01. Choose a Drink\obj\Debug\netcoreapp2.0\01. Choose a Drink.dll
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\01. Choose a Drink\obj\Debug\netcoreapp2.0\01. Choose a Drink.pdb

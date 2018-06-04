@@ -1,0 +1,11 @@
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\14. Magic Letter\bin\Debug\netcoreapp2.0\14. Magic Letter.deps.json
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\14. Magic Letter\bin\Debug\netcoreapp2.0\14. Magic Letter.runtimeconfig.json
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\14. Magic Letter\bin\Debug\netcoreapp2.0\14. Magic Letter.runtimeconfig.dev.json
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\14. Magic Letter\bin\Debug\netcoreapp2.0\14. Magic Letter.dll
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\14. Magic Letter\bin\Debug\netcoreapp2.0\14. Magic Letter.pdb
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\14. Magic Letter\obj\Debug\netcoreapp2.0\14. Magic Letter.csprojResolveAssemblyReference.cache
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\14. Magic Letter\obj\Debug\netcoreapp2.0\14. Magic Letter.csproj.CoreCompileInputs.cache
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\14. Magic Letter\obj\Debug\netcoreapp2.0\14. Magic Letter.AssemblyInfoInputs.cache
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\14. Magic Letter\obj\Debug\netcoreapp2.0\14. Magic Letter.AssemblyInfo.cs
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\14. Magic Letter\obj\Debug\netcoreapp2.0\14. Magic Letter.dll
+F:\VS\GITHUB\02___TECHNOLOGIES_FUNDAMENTALS\P_FUNDAMENTALS\1.___LABS_AND_EXERSIZES\02___Conditional St_and_Loops - Exercises_15_tasks\14. Magic Letter\obj\Debug\netcoreapp2.0\14. Magic Letter.pdb
