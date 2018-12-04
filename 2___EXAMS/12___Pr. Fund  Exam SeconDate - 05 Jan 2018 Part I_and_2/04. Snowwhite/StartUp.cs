@@ -35,10 +35,9 @@
                 {
                     colorsOfdwarfs.Add(color, new List<Dwarf>());
                 }
-                var dwarfByCurrentColor = colorsOfdwarfs[color];
-                var searchedDwarf = dwarfByCurrentColor
-                    .FirstOrDefault(d => d.Name == name);
-
+                
+                Dwarf searchedDwarf = colorsOfdwarfs[color].FirstOrDefault(d => d.Name == name);
+                
                 if (searchedDwarf != null)
                 {
                     searchedDwarf.Physics = Math.Max(searchedDwarf.Physics, physics);
@@ -49,19 +48,21 @@
                     dwarf.Name = name;
                     dwarf.Color = color;
                     dwarf.Physics = physics;
-                    dwarfByCurrentColor.Add(dwarf);
+                    colorsOfdwarfs[color].Add(dwarf);
                     allDwarf.Add(dwarf);
                 }
+            }
 
-            }
-            var orderedResult = allDwarf
-                .OrderByDescending(d => d.Physics)
-                .ThenByDescending(d => colorsOfdwarfs[d.Color].Count())
-                .ToList();
-            foreach (var dwarfs in orderedResult)
-            {
-                Console.WriteLine($"({dwarfs.Color}) {dwarfs.Name} <-> {dwarfs.Physics}");
-            }
+                allDwarf
+               .OrderByDescending(d => d.Physics)
+               .ThenByDescending(d => colorsOfdwarfs[d.Color].Count())
+               .ToList()
+               .ForEach(d => Console.WriteLine($"({d.Color}) {d.Name} <-> {d.Physics}"));
+
+           //foreach (var dwarfs in orderedDwarfs)
+           //{
+           //    Console.WriteLine($"({dwarfs.Color}) {dwarfs.Name} <-> {dwarfs.Physics}");
+           //}
         }
     }
 }
